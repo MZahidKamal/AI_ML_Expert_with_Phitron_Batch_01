@@ -1,0 +1,5 @@
+In 2026, the AI-ML landscape is rapidly shifting from passive chatbots to Agentic AI. Unlike traditional systems that merely answer queries, these 
+AI agents autonomously execute complex, multi-step workflows by utilizing external tools without constant human oversight. Alongside this, there is 
+a surge in Domain-Specific Models and Small Language Models (SLMs), which offer faster, cost-effective, and highly accurate solutions for specialized 
+tasks compared to massive general-purpose models. This evolution is transforming AI from a mere conversational tool into a proactive digital partner, 
+fundamentally redefining efficiency across industries and paving the way for truly autonomous digital workforce integration.
